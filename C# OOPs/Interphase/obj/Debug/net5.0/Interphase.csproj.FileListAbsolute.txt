@@ -1,0 +1,16 @@
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\bin\Debug\net5.0\Interphase.exe
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\bin\Debug\net5.0\Interphase.deps.json
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\bin\Debug\net5.0\Interphase.runtimeconfig.json
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\bin\Debug\net5.0\Interphase.runtimeconfig.dev.json
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\bin\Debug\net5.0\Interphase.dll
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\bin\Debug\net5.0\ref\Interphase.dll
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\bin\Debug\net5.0\Interphase.pdb
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\Interphase.csproj.AssemblyReference.cache
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\Interphase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\Interphase.AssemblyInfoInputs.cache
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\Interphase.AssemblyInfo.cs
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\Interphase.csproj.CoreCompileInputs.cache
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\Interphase.dll
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\ref\Interphase.dll
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\Interphase.pdb
+C:\Users\IIT\Desktop\Dev Prac\Training Tasks and Assignments\C# Assignment 9\C# OOPs\Interphase\obj\Debug\net5.0\Interphase.genruntimeconfig.cache
